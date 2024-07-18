@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unrealProject/RedVTask/Content/MainMap.umap",
+				"D:/unrealProject/RedVTask/Content/Drone.uasset",
+				"D:/unrealProject/RedVTask/Content/target.uasset",
+				"D:/unrealProject/RedVTask/Content/BP_MainWidget.uasset",
+				"D:/unrealProject/RedVTask/Content/BP_PackHint.uasset",
+				"D:/unrealProject/RedVTask/Content/BP_HealthBar.uasset",
+				"D:/unrealProject/RedVTask/Content/M_Ammo.uasset",
+				"D:/unrealProject/RedVTask/Content/M_Ammo_Inst.uasset",
+				"D:/unrealProject/RedVTask/Content/M_Health.uasset",
+				"D:/unrealProject/RedVTask/Content/M_Health_Inst.uasset",
+				"D:/unrealProject/RedVTask/Content/MyTargetWidget.uasset",
+				"D:/unrealProject/RedVTask/Content/MainWidget_BP.uasset",
+				"D:/unrealProject/RedVTask/Content/MyHUD_BP.uasset",
+				"D:/unrealProject/RedVTask/Content/Blueprints/NewHUD.uasset",
+				"D:/unrealProject/RedVTask/Content/TestWidget.uasset",
+				"D:/unrealProject/RedVTask/Content/MainWidget.uasset",
+				"D:/unrealProject/RedVTask/Content/mainGameMode.uasset",
+				"D:/unrealProject/RedVTask/Content/BPHUD.uasset",
+				"D:/unrealProject/RedVTask/Content/MyDrone.uasset",
+				"D:/unrealProject/RedVTask/Content/MyTurel.uasset",
+				"D:/unrealProject/RedVTask/Content/MyTurrelSpawner.uasset",
+				"D:/unrealProject/RedVTask/Content/Turrel.uasset",
+				"D:/unrealProject/RedVTask/Content/TargetW.uasset",
+				"D:/unrealProject/RedVTask/Content/NewWidgetBlueprint.uasset",
+				"D:/unrealProject/RedVTask/Content/TargetWidget.uasset",
+				"D:/unrealProject/RedVTask/Content/TargetWidget00.uasset",
+				"D:/UNREAL/Epic Games/UE_5.4/Engine/Content/Maps/Templates/Thumbnails/OpenWorld.uasset",
+				"D:/UNREAL/Epic Games/UE_5.4/Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset"
+			]
+		}
+	]
+}

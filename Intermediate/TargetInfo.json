@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RedVTask",
+			"Path": "..\\Source\\RedVTask.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RedVTaskEditor",
+			"Path": "..\\Source\\RedVTaskEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

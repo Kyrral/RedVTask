@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\unrealProject\\RedVTask\\Source\\RedVTask\\RedVTask.Build.cs",
+		"D:\\unrealProject\\RedVTask\\Source\\RedVTask.Target.cs",
+		"D:\\unrealProject\\RedVTask\\Source\\RedVTaskEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.2"
+}

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RedVTask.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RedVTask.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RedVTaskEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RedVTask">
+      <UniqueIdentifier>{9DE5ACAC-CAE4-384C-B3BF-A9659051C58A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RedVTask\RedVTask.Build.cs">
+      <Filter>Source\RedVTask</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RedVTask\RedVTask.cpp">
+      <Filter>Source\RedVTask</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RedVTask\RedVTask.h">
+      <Filter>Source\RedVTask</Filter>
+    </ClInclude>
+    <Filter Include="Source\RedVTask\Private">
+      <UniqueIdentifier>{FD83F29B-1B54-3499-9931-123C35F251F2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RedVTask\Private\AmmoPack.cpp">
+      <Filter>Source\RedVTask\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RedVTask\Private\AmmoPackSpawner.cpp">
+      <Filter>Source\RedVTask\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RedVTask\Private\Drone.cpp">
+      <Filter>Source\RedVTask\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RedVTask\Private\HealthPack.cpp">
+      <Filter>Source\RedVTask\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RedVTask\Private\HealthPackSpawner.cpp">
+      <Filter>Source\RedVTask\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RedVTask\Private\MainGameMode.cpp">
+      <Filter>Source\RedVTask\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RedVTask\Private\Missile.cpp">
+      <Filter>Source\RedVTask\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RedVTask\Private\MyFloor.cpp">
+      <Filter>Source\RedVTask\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RedVTask\Private\MyHUD.cpp">
+      <Filter>Source\RedVTask\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RedVTask\Private\MyPlayerController.cpp">
+      <Filter>Source\RedVTask\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RedVTask\Private\Spawner.cpp">
+      <Filter>Source\RedVTask\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RedVTask\Private\TargetWidget.cpp">
+      <Filter>Source\RedVTask\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RedVTask\Private\TipWidget.cpp">
+      <Filter>Source\RedVTask\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RedVTask\Private\Turel.cpp">
+      <Filter>Source\RedVTask\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RedVTask\Private\TurrelHealthBar.cpp">
+      <Filter>Source\RedVTask\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RedVTask\Private\TurrelSpawner.cpp">
+      <Filter>Source\RedVTask\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\RedVTask\Public">
+      <UniqueIdentifier>{FD2538CF-5AC1-3906-8B83-C3ACDDD343A2}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\RedVTask\Public\AmmoPack.h">
+      <Filter>Source\RedVTask\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RedVTask\Public\AmmoPackSpawner.h">
+      <Filter>Source\RedVTask\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RedVTask\Public\Drone.h">
+      <Filter>Source\RedVTask\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RedVTask\Public\HealthPack.h">
+      <Filter>Source\RedVTask\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RedVTask\Public\HealthPackSpawner.h">
+      <Filter>Source\RedVTask\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RedVTask\Public\MainGameMode.h">
+      <Filter>Source\RedVTask\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RedVTask\Public\Missile.h">
+      <Filter>Source\RedVTask\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RedVTask\Public\MyFloor.h">
+      <Filter>Source\RedVTask\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RedVTask\Public\MyHUD.h">
+      <Filter>Source\RedVTask\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RedVTask\Public\MyPlayerController.h">
+      <Filter>Source\RedVTask\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RedVTask\Public\Spawner.h">
+      <Filter>Source\RedVTask\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RedVTask\Public\TargetWidget.h">
+      <Filter>Source\RedVTask\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RedVTask\Public\TipWidget.h">
+      <Filter>Source\RedVTask\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RedVTask\Public\Turel.h">
+      <Filter>Source\RedVTask\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RedVTask\Public\TurrelHealthBar.h">
+      <Filter>Source\RedVTask\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RedVTask\Public\TurrelSpawner.h">
+      <Filter>Source\RedVTask\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
